@@ -439,9 +439,12 @@ footer {
 /* SERVICES SECTION */
 .services-section {
   padding: 80px 0 30px;
-  background-color: #fff; }
+  background-color: #fff;
+}
   .services-section .title-and-desc {
-    margin-bottom: 110px; }
+    width: 700px;
+    margin: 0 auto 110px;
+  }
   .services-section .title-and-desc p {
     font-size: 15px;
     line-height: 26px;
