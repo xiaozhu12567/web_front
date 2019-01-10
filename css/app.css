@@ -442,6 +442,11 @@ footer {
   background-color: #fff; }
   .services-section .title-and-desc {
     margin-bottom: 110px; }
+  .services-section .title-and-desc p {
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: 1px;
+  }
     .services-section .title-and-desc .separate {
       display: block; }
     .services-section .title-and-desc p.body-text {
